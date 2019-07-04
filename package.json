@@ -1,5 +1,5 @@
 {
-	"name": "npm-user",
+	"name": "@pkgstats/npm-user",
 	"version": "4.1.0",
 	"description": "Get user info of an npm user",
 	"license": "MIT",
